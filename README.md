@@ -8,7 +8,7 @@ data.hy下载：
 2. Hash函数训练  
 cd HashFuncLearning  
 python dsthMain.py --train True  
-  
-3.加载DSTH Model获取Hash码  
+
+3. 加载DSTH Model获取Hash码  
 cd HashCodePrediction  
 python getHashCodes.py
